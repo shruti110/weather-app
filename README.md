@@ -17,6 +17,7 @@ configuration:
     Android Studio Code Plugins:
         Dart
         Flutter
-![alt text](https://github.com/shruti110/weather-app/blob/main/1.jpg?raw=true = 250x250)
+  <a href="url"><img src="https://github.com/shruti110/weather-app/blob/main/1.jpg?raw=true" align="left" height="48" width="48" ></a>
+![alt text](https://github.com/shruti110/weather-app/blob/main/1.jpg?raw=true)
 
 ![alt text](https://github.com/shruti110/weather-app/blob/main/2.jpg?raw=true)
