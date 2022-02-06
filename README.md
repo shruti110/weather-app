@@ -17,3 +17,4 @@ configuration:
     Android Studio Code Plugins:
         Dart
         Flutter
+![alt text](https://github.com/shruti110/weather-app/blob/main/1.jpg?raw=true)
